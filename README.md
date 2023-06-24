@@ -10,4 +10,5 @@
 
 - 第1章 : 开始  [笔记](./notes/ch01.md)  [练习](./excersize/ch01.md)
 
-  
+- 第 I 部分 : C++基础
+  - 第2章 : 变量和基本类型  [笔记](./notes/ch02.md)  [练习](./excersize/ch02.md)
