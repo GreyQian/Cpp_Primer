@@ -12,3 +12,4 @@
 
 - 第 I 部分 : C++基础
   - 第2章 : 变量和基本类型  [笔记](./notes/ch02.md)  [练习](./excersize/ch02.md)
+  - 第3章 : 字符串、向量和数组  [笔记](./notes/ch03.md)  [练习](./excersize/ch03.md)
