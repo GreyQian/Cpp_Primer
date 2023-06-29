@@ -15,3 +15,4 @@
   - 第4章 : 表达式  [笔记](./notes/ch04.md)  [练习](./excersize/ch04.md)  
   - 第5章 : 语句  [笔记](./notes/ch05.md)  [练习](./excersize/ch05.md)
   - 第6章 : 函数  [笔记](./notes/ch06.md)  [练习](./excersize/ch06.md)
+  - 第7章 : 类  [笔记](./notes/ch07.md)  [练习](./excersize/ch07.md)
